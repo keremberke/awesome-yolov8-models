@@ -94,6 +94,15 @@ render.show()
 | 0.687 | 1.000 | yolov5s-cls | [keremberke/yolov8s-shoe-classification](https://huggingface.co/keremberke/yolov8s-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
 | 0.795 | 1.000 | yolov5m-cls | [keremberke/yolov8m-shoe-classification](https://huggingface.co/keremberke/yolov8m-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
 
+![image](https://user-images.githubusercontent.com/89259176/215867937-03134da0-afd6-4dac-b5fd-6d68a58004d4.png)
+
+| top1 acc. | top5 acc. | model type | model id |  dataset page |
+|---        |---        |---         |---       |---            |
+| 0.678 | 1.000 | yolov5n-cls | [keremberke/yolov8n-shoe-classification](https://huggingface.co/keremberke/yolov8n-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
+| 0.687 | 1.000 | yolov5s-cls | [keremberke/yolov8s-shoe-classification](https://huggingface.co/keremberke/yolov8s-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
+| 0.795 | 1.000 | yolov5m-cls | [keremberke/yolov8m-shoe-classification](https://huggingface.co/keremberke/yolov8m-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
+
+
 <!-- DETECTION MODELS -->
 ## Detection Models
 
