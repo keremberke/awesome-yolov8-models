@@ -90,17 +90,17 @@ render.show()
 
 | top1 acc. | top5 acc. | model type | model id |  dataset page |
 |---        |---        |---         |---       |---            |
-| 0.678 | 1.000 | yolov5n-cls | [keremberke/yolov8n-shoe-classification](https://huggingface.co/keremberke/yolov8n-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
-| 0.687 | 1.000 | yolov5s-cls | [keremberke/yolov8s-shoe-classification](https://huggingface.co/keremberke/yolov8s-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
-| 0.795 | 1.000 | yolov5m-cls | [keremberke/yolov8m-shoe-classification](https://huggingface.co/keremberke/yolov8m-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
+| 0.678 | 1.000 | yolov8n-cls | [keremberke/yolov8n-shoe-classification](https://huggingface.co/keremberke/yolov8n-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
+| 0.687 | 1.000 | yolov8s-cls | [keremberke/yolov8s-shoe-classification](https://huggingface.co/keremberke/yolov8s-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
+| 0.795 | 1.000 | yolov8m-cls | [keremberke/yolov8m-shoe-classification](https://huggingface.co/keremberke/yolov8m-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
 
-![image](https://user-images.githubusercontent.com/89259176/215867937-03134da0-afd6-4dac-b5fd-6d68a58004d4.png)
+<img width="600px" src="https://user-images.githubusercontent.com/89259176/215867937-03134da0-afd6-4dac-b5fd-6d68a58004d4.png" align="center" />
 
 | top1 acc. | top5 acc. | model type | model id |  dataset page |
 |---        |---        |---         |---       |---            |
-| 0.678 | 1.000 | yolov5n-cls | [keremberke/yolov8n-shoe-classification](https://huggingface.co/keremberke/yolov8n-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
-| 0.687 | 1.000 | yolov5s-cls | [keremberke/yolov8s-shoe-classification](https://huggingface.co/keremberke/yolov8s-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
-| 0.795 | 1.000 | yolov5m-cls | [keremberke/yolov8m-shoe-classification](https://huggingface.co/keremberke/yolov8m-shoe-classification) | [dataset](https://huggingface.co/datasets/keremberke/shoe-classification) |
+| 0 | 0 | yolov8n-cls | [keremberke/yolov8n-chest-xray-classification](https://huggingface.co/keremberke/yolov8n-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
+| 0 | 0 | yolov8s-cls | [keremberke/yolov8s-chest-xray-classification](https://huggingface.co/keremberke/yolov8s-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
+| 0 | 0 | yolov8m-cls | [keremberke/yolov8m-chest-xray-classification](https://huggingface.co/keremberke/yolov8m-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
 
 
 <!-- DETECTION MODELS -->
@@ -110,9 +110,9 @@ render.show()
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.959 | yolov5n | [keremberke/yolov5n-valorant](https://huggingface.co/keremberke/yolov5n-valorant) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
-| 0.982 | yolov5s | [keremberke/yolov5s-valorant](https://huggingface.co/keremberke/yolov5s-valorant) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
-| 0.990 | yolov5m | [keremberke/yolov5m-valorant](https://huggingface.co/keremberke/yolov5m-valorant) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0 | yolov8n | [keremberke/yolov8n-valorant-detection](https://huggingface.co/keremberke/yolov8n-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0 | yolov8s | [keremberke/yolov8s-valorant-detection](https://huggingface.co/keremberke/yolov8s-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0 | yolov8m | [keremberke/yolov8m-valorant-detection](https://huggingface.co/keremberke/yolov8m-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
 
 <!-- SEGMENTATION MODELS -->
 ## Segmentation Models
@@ -121,9 +121,9 @@ render.show()
 
 | mask mAP@0.5 | model type | model id |  dataset page |
 |---            |---         |---         |---            |
-| 0.517 | yolov5n-seg | [keremberke/yolov8n-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8n-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
-| 0.517 | yolov5n-seg | [keremberke/yolov8n-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8n-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
-| 0.517 | yolov5n-seg | [keremberke/yolov8n-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8n-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
+| 0.517 | yolov8n-seg | [keremberke/yolov8n-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8n-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
+| 0 | yolov8s-seg | [keremberke/yolov8s-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8s-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
+| 0 | yolov8m-seg | [keremberke/yolov8m-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8m-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
 
 <!-- CONTRIBUTING -->
 ## Contributing
