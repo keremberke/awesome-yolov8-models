@@ -63,7 +63,7 @@ from ultralyticsplus import YOLO, render_result
 
 # load model
 model = YOLO(DESIRED_MODEL_ID)
-    
+
 # set image
 image = 'image.png'
     
@@ -138,8 +138,8 @@ render.show()
 | mask mAP@0.5 | model type | model id |  dataset page |
 |---            |---         |---         |---            |
 | 0.995 | yolov8n-seg | [keremberke/yolov8n-pothole-segmentation](https://huggingface.co/keremberke/yolov8n-pothole-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pothole-segmentation) |
-| 0.995 | yolov8s-seg | [keremberke/yolov8s-pothole-segmentation](https://huggingface.co/keremberke/yolov8s-pothole-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pothole-segmentation) |
-| 0.995 | yolov8m-seg | [keremberke/yolov8m-pothole-segmentation](https://huggingface.co/keremberke/yolov8m-pothole-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pothole-segmentation) |
+| 0.928 | yolov8s-seg | [keremberke/yolov8s-pothole-segmentation](https://huggingface.co/keremberke/yolov8s-pothole-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pothole-segmentation) |
+| 0.895 | yolov8m-seg | [keremberke/yolov8m-pothole-segmentation](https://huggingface.co/keremberke/yolov8m-pothole-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pothole-segmentation) |
 
 
 <!-- CONTRIBUTING -->
