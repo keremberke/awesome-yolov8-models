@@ -98,9 +98,9 @@ render.show()
 
 | top1 acc. | top5 acc. | model type | model id |  dataset page |
 |---        |---        |---         |---       |---            |
-| 0 | 0 | yolov8n-cls | [keremberke/yolov8n-chest-xray-classification](https://huggingface.co/keremberke/yolov8n-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
-| 0 | 0 | yolov8s-cls | [keremberke/yolov8s-chest-xray-classification](https://huggingface.co/keremberke/yolov8s-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
-| 0 | 0 | yolov8m-cls | [keremberke/yolov8m-chest-xray-classification](https://huggingface.co/keremberke/yolov8m-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
+| 0.943 | 1.000 | yolov8n-cls | [keremberke/yolov8n-chest-xray-classification](https://huggingface.co/keremberke/yolov8n-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
+| 0.942 | 1.000 | yolov8s-cls | [keremberke/yolov8s-chest-xray-classification](https://huggingface.co/keremberke/yolov8s-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
+| 0.955 | 1.000 | yolov8m-cls | [keremberke/yolov8m-chest-xray-classification](https://huggingface.co/keremberke/yolov8m-chest-xray-classification) | [dataset](https://huggingface.co/datasets/keremberke/chest-xray-classification) |
 
 
 <!-- DETECTION MODELS -->
@@ -122,8 +122,25 @@ render.show()
 | mask mAP@0.5 | model type | model id |  dataset page |
 |---            |---         |---         |---            |
 | 0.517 | yolov8n-seg | [keremberke/yolov8n-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8n-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
-| 0 | yolov8s-seg | [keremberke/yolov8s-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8s-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
-| 0 | yolov8m-seg | [keremberke/yolov8m-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8m-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
+| 0.491 | yolov8s-seg | [keremberke/yolov8s-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8s-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
+| 0.557 | yolov8m-seg | [keremberke/yolov8m-pcb-defect-segmentation](https://huggingface.co/keremberke/yolov8m-pcb-defect-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pcb-defect-segmentation) |
+
+<img width="600px" src="https://user-images.githubusercontent.com/89259176/216034949-80535a86-549f-45e5-af16-93f7a3a3c363.png" align="center" />
+
+| mask mAP@0.5 | model type | model id |  dataset page |
+|---            |---         |---         |---            |
+| 0.628 | yolov8n-seg | [keremberke/yolov8n-building-segmentation](https://huggingface.co/keremberke/yolov8n-building-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/satellite-building-segmentation) |
+| 0.651 | yolov8s-seg | [keremberke/yolov8s-building-segmentation](https://huggingface.co/keremberke/yolov8s-building-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/satellite-building-segmentation) |
+| 0.613 | yolov8m-seg | [keremberke/yolov8m-building-segmentation](https://huggingface.co/keremberke/yolov8m-building-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/satellite-building-segmentation) |
+
+<img width="600px" src="https://user-images.githubusercontent.com/89259176/216039366-26af6a39-a080-46cf-8b7a-6622a022e421.png" align="center" />
+
+| mask mAP@0.5 | model type | model id |  dataset page |
+|---            |---         |---         |---            |
+| 0.995 | yolov8n-seg | [keremberke/yolov8n-pothole-segmentation](https://huggingface.co/keremberke/yolov8n-pothole-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pothole-segmentation) |
+| 0.995 | yolov8s-seg | [keremberke/yolov8s-pothole-segmentation](https://huggingface.co/keremberke/yolov8s-pothole-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pothole-segmentation) |
+| 0.995 | yolov8m-seg | [keremberke/yolov8m-pothole-segmentation](https://huggingface.co/keremberke/yolov8m-pothole-segmentation) | [dataset](https://huggingface.co/datasets/keremberke/pothole-segmentation) |
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
