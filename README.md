@@ -110,9 +110,20 @@ render.show()
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0 | yolov8n | [keremberke/yolov8n-valorant-detection](https://huggingface.co/keremberke/yolov8n-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
-| 0 | yolov8s | [keremberke/yolov8s-valorant-detection](https://huggingface.co/keremberke/yolov8s-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
-| 0 | yolov8m | [keremberke/yolov8m-valorant-detection](https://huggingface.co/keremberke/yolov8m-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0.937 | yolov8n-det | [keremberke/yolov8n-valorant-detection](https://huggingface.co/keremberke/yolov8n-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0.971 | yolov8s-det | [keremberke/yolov8s-valorant-detection](https://huggingface.co/keremberke/yolov8s-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0.965 | yolov8m-det | [keremberke/yolov8m-valorant-detection](https://huggingface.co/keremberke/yolov8m-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+
+<img width="600px" src="https://user-images.githubusercontent.com/89259176/216049393-a86cc5e6-c9aa-4186-9f13-6ac0a31b8681.png" align="center" />
+
+| box mAP@0.5 | model type | model id |  dataset page |
+|---                 |---         |---       |---            |
+| 0.838 | yolov8n-det | [keremberke/yolov8n-forklift-detection](https://huggingface.co/keremberke/yolov8n-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
+| 0.851 | yolov8s-det | [keremberke/yolov8s-forklift-detection](https://huggingface.co/keremberke/yolov8s-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
+| 0.846 | yolov8m-det | [keremberke/yolov8m-forklift-detection](https://huggingface.co/keremberke/yolov8m-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
+
+
+
 
 <!-- SEGMENTATION MODELS -->
 ## Segmentation Models
