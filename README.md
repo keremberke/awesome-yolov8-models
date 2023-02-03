@@ -154,6 +154,17 @@ render.show()
 | 0.279 | yolov8s-det | [keremberke/yolov8s-nlf-head-detection](https://huggingface.co/keremberke/yolov8s-nlf-head-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection) |
 | 0.287 | yolov8m-det | [keremberke/yolov8m-nlf-head-detection](https://huggingface.co/keremberke/yolov8m-nlf-head-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection) |
 
+<img width="600px" src="https://user-images.githubusercontent.com/89259176/216608968-42fc0419-52c8-426f-a5c9-9eab670ff0e7.png" align="center" />
+
+| box mAP@0.5 | model type | model id |  dataset page |
+|---                 |---         |---       |---            |
+| 0.836 | yolov8n-det | [keremberke/yolov8n-hard-hat-detection](https://huggingface.co/keremberke/yolov8n-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
+| 0.834 | yolov8s-det | [keremberke/yolov8s-hard-hat-detection](https://huggingface.co/keremberke/yolov8s-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
+| 0.811 | yolov8m-det | [keremberke/yolov8m-hard-hat-detection](https://huggingface.co/keremberke/yolov8m-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
+
+
+
+
 
 
 
