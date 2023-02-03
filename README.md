@@ -110,65 +110,65 @@ render.show()
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.937 | yolov8n-det | [keremberke/yolov8n-valorant-detection](https://huggingface.co/keremberke/yolov8n-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
-| 0.971 | yolov8s-det | [keremberke/yolov8s-valorant-detection](https://huggingface.co/keremberke/yolov8s-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
-| 0.965 | yolov8m-det | [keremberke/yolov8m-valorant-detection](https://huggingface.co/keremberke/yolov8m-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0.937 | yolov8n | [keremberke/yolov8n-valorant-detection](https://huggingface.co/keremberke/yolov8n-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0.971 | yolov8s | [keremberke/yolov8s-valorant-detection](https://huggingface.co/keremberke/yolov8s-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
+| 0.965 | yolov8m | [keremberke/yolov8m-valorant-detection](https://huggingface.co/keremberke/yolov8m-valorant-detection) | [dataset](https://huggingface.co/datasets/keremberke/valorant-object-detection) |
 
 <img width="600px" src="https://user-images.githubusercontent.com/89259176/216049393-a86cc5e6-c9aa-4186-9f13-6ac0a31b8681.png" align="center" />
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.838 | yolov8n-det | [keremberke/yolov8n-forklift-detection](https://huggingface.co/keremberke/yolov8n-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
-| 0.851 | yolov8s-det | [keremberke/yolov8s-forklift-detection](https://huggingface.co/keremberke/yolov8s-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
-| 0.846 | yolov8m-det | [keremberke/yolov8m-forklift-detection](https://huggingface.co/keremberke/yolov8m-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
+| 0.838 | yolov8n | [keremberke/yolov8n-forklift-detection](https://huggingface.co/keremberke/yolov8n-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
+| 0.851 | yolov8s | [keremberke/yolov8s-forklift-detection](https://huggingface.co/keremberke/yolov8s-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
+| 0.846 | yolov8m | [keremberke/yolov8m-forklift-detection](https://huggingface.co/keremberke/yolov8m-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
 
 <img width="600px" src="https://user-images.githubusercontent.com/89259176/216603426-45a0b43a-08dd-4edf-98ab-3d5d8e062109.png" align="center" />
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.844 | yolov8n-det | [keremberke/yolov8n-csgo-player-detection](https://huggingface.co/keremberke/yolov8n-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
-| 0.886 | yolov8s-det | [keremberke/yolov8s-csgo-player-detection](https://huggingface.co/keremberke/yolov8s-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
-| 0.892 | yolov8m-det | [keremberke/yolov8m-csgo-player-detection](https://huggingface.co/keremberke/yolov8m-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
+| 0.844 | yolov8n | [keremberke/yolov8n-csgo-player-detection](https://huggingface.co/keremberke/yolov8n-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
+| 0.886 | yolov8s | [keremberke/yolov8s-csgo-player-detection](https://huggingface.co/keremberke/yolov8s-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
+| 0.892 | yolov8m | [keremberke/yolov8m-csgo-player-detection](https://huggingface.co/keremberke/yolov8m-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
 
 <img width="600px" src="https://user-images.githubusercontent.com/89259176/216605070-d3b2721f-07bc-465b-9650-3e2e3d2e533b.png" align="center" />
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.893 | yolov8n-det | [keremberke/yolov8n-blood-cell-detection](https://huggingface.co/keremberke/yolov8n-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
-| 0.917 | yolov8s-det | [keremberke/yolov8s-blood-cell-detection](https://huggingface.co/keremberke/yolov8s-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
-| 0.927 | yolov8m-det | [keremberke/yolov8m-blood-cell-detection](https://huggingface.co/keremberke/yolov8m-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
+| 0.893 | yolov8n | [keremberke/yolov8n-blood-cell-detection](https://huggingface.co/keremberke/yolov8n-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
+| 0.917 | yolov8s | [keremberke/yolov8s-blood-cell-detection](https://huggingface.co/keremberke/yolov8s-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
+| 0.927 | yolov8m | [keremberke/yolov8m-blood-cell-detection](https://huggingface.co/keremberke/yolov8m-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
 
 <img width="600px" src="https://user-images.githubusercontent.com/89259176/216606044-f32d25c0-3ac4-4af8-9580-2a65d5b988a5.png" align="center" />
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.995 | yolov8n-det | [keremberke/yolov8n-plane-detection](https://huggingface.co/keremberke/yolov8n-plane-detection) | [dataset](https://huggingface.co/datasets/keremberke/plane-detection) |
-| 0.995 | yolov8s-det | [keremberke/yolov8s-plane-detection](https://huggingface.co/keremberke/yolov8s-plane-detection) | [dataset](https://huggingface.co/datasets/keremberke/plane-detection) |
-| 0.995 | yolov8m-det | [keremberke/yolov8m-plane-detection](https://huggingface.co/keremberke/yolov8m-plane-detection) | [dataset](https://huggingface.co/datasets/keremberke/plane-detection) |
+| 0.995 | yolov8n | [keremberke/yolov8n-plane-detection](https://huggingface.co/keremberke/yolov8n-plane-detection) | [dataset](https://huggingface.co/datasets/keremberke/plane-detection) |
+| 0.995 | yolov8s | [keremberke/yolov8s-plane-detection](https://huggingface.co/keremberke/yolov8s-plane-detection) | [dataset](https://huggingface.co/datasets/keremberke/plane-detection) |
+| 0.995 | yolov8m | [keremberke/yolov8m-plane-detection](https://huggingface.co/keremberke/yolov8m-plane-detection) | [dataset](https://huggingface.co/datasets/keremberke/plane-detection) |
 
 <img width="600px" src="https://user-images.githubusercontent.com/89259176/216607572-17d811d2-471e-416c-83dc-de56a4c4917d.png" align="center" />
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.209 | yolov8n-det | [keremberke/yolov8n-nlf-head-detection](https://huggingface.co/keremberke/yolov8n-nlf-head-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection) |
-| 0.279 | yolov8s-det | [keremberke/yolov8s-nlf-head-detection](https://huggingface.co/keremberke/yolov8s-nlf-head-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection) |
-| 0.287 | yolov8m-det | [keremberke/yolov8m-nlf-head-detection](https://huggingface.co/keremberke/yolov8m-nlf-head-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection) |
+| 0.209 | yolov8n | [keremberke/yolov8n-nlf-head-detection](https://huggingface.co/keremberke/yolov8n-nlf-head-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection) |
+| 0.279 | yolov8s | [keremberke/yolov8s-nlf-head-detection](https://huggingface.co/keremberke/yolov8s-nlf-head-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection) |
+| 0.287 | yolov8m | [keremberke/yolov8m-nlf-head-detection](https://huggingface.co/keremberke/yolov8m-nlf-head-detection) | [dataset](https://huggingface.co/datasets/keremberke/nfl-object-detection) |
 
 <img width="600px" src="https://user-images.githubusercontent.com/89259176/216608968-42fc0419-52c8-426f-a5c9-9eab670ff0e7.png" align="center" />
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.836 | yolov8n-det | [keremberke/yolov8n-hard-hat-detection](https://huggingface.co/keremberke/yolov8n-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
-| 0.834 | yolov8s-det | [keremberke/yolov8s-hard-hat-detection](https://huggingface.co/keremberke/yolov8s-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
-| 0.811 | yolov8m-det | [keremberke/yolov8m-hard-hat-detection](https://huggingface.co/keremberke/yolov8m-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
+| 0.836 | yolov8n | [keremberke/yolov8n-hard-hat-detection](https://huggingface.co/keremberke/yolov8n-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
+| 0.834 | yolov8s | [keremberke/yolov8s-hard-hat-detection](https://huggingface.co/keremberke/yolov8s-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
+| 0.811 | yolov8m | [keremberke/yolov8m-hard-hat-detection](https://huggingface.co/keremberke/yolov8m-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
 
 <img width="600px" src="https://user-images.githubusercontent.com/89259176/216609995-0a41c076-4675-4726-a3ca-aa02291fd861.png" align="center" />
 
 | box mAP@0.5 | model type | model id |  dataset page |
 |---                 |---         |---       |---            |
-| 0.967 | yolov8n-det | [keremberke/yolov8n-table-extraction](https://huggingface.co/keremberke/yolov8n-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
-| 0.984 | yolov8s-det | [keremberke/yolov8s-table-extraction](https://huggingface.co/keremberke/yolov8s-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
-| 0.952 | yolov8m-det | [keremberke/yolov8m-table-extraction](https://huggingface.co/keremberke/yolov8m-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
+| 0.967 | yolov8n | [keremberke/yolov8n-table-extraction](https://huggingface.co/keremberke/yolov8n-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
+| 0.984 | yolov8s | [keremberke/yolov8s-table-extraction](https://huggingface.co/keremberke/yolov8s-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
+| 0.952 | yolov8m | [keremberke/yolov8m-table-extraction](https://huggingface.co/keremberke/yolov8m-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
 
 
 
