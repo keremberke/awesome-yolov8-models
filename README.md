@@ -122,8 +122,13 @@ render.show()
 | 0.851 | yolov8s-det | [keremberke/yolov8s-forklift-detection](https://huggingface.co/keremberke/yolov8s-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
 | 0.846 | yolov8m-det | [keremberke/yolov8m-forklift-detection](https://huggingface.co/keremberke/yolov8m-forklift-detection) | [dataset](https://huggingface.co/datasets/keremberke/forklift-object-detection) |
 
+<img width="600px" src="https://user-images.githubusercontent.com/89259176/216603426-45a0b43a-08dd-4edf-98ab-3d5d8e062109.png" align="center" />
 
-
+| box mAP@0.5 | model type | model id |  dataset page |
+|---                 |---         |---       |---            |
+| 0.844 | yolov8n-det | [keremberke/yolov8n-csgo-player-detection](https://huggingface.co/keremberke/yolov8n-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
+| 0.886 | yolov8s-det | [keremberke/yolov8s-csgo-player-detection](https://huggingface.co/keremberke/yolov8s-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
+| 0.892 | yolov8m-det | [keremberke/yolov8m-csgo-player-detection](https://huggingface.co/keremberke/yolov8m-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
 
 <!-- SEGMENTATION MODELS -->
 ## Segmentation Models
