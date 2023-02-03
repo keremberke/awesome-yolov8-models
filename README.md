@@ -162,6 +162,18 @@ render.show()
 | 0.834 | yolov8s-det | [keremberke/yolov8s-hard-hat-detection](https://huggingface.co/keremberke/yolov8s-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
 | 0.811 | yolov8m-det | [keremberke/yolov8m-hard-hat-detection](https://huggingface.co/keremberke/yolov8m-hard-hat-detection) | [dataset](https://huggingface.co/datasets/keremberke/hard-hat-detection) |
 
+<img width="600px" src="https://user-images.githubusercontent.com/89259176/216609995-0a41c076-4675-4726-a3ca-aa02291fd861.png" align="center" />
+
+| box mAP@0.5 | model type | model id |  dataset page |
+|---                 |---         |---       |---            |
+| 0.967 | yolov8n-det | [keremberke/yolov8n-table-extraction](https://huggingface.co/keremberke/yolov8n-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
+| 0.984 | yolov8s-det | [keremberke/yolov8s-table-extraction](https://huggingface.co/keremberke/yolov8s-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
+| 0.952 | yolov8m-det | [keremberke/yolov8m-table-extraction](https://huggingface.co/keremberke/yolov8m-table-extraction) | [dataset](https://huggingface.co/datasets/keremberke/table-extraction) |
+
+
+
+
+
 
 
 
