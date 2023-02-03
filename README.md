@@ -130,6 +130,15 @@ render.show()
 | 0.886 | yolov8s-det | [keremberke/yolov8s-csgo-player-detection](https://huggingface.co/keremberke/yolov8s-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
 | 0.892 | yolov8m-det | [keremberke/yolov8m-csgo-player-detection](https://huggingface.co/keremberke/yolov8m-csgo-player-detection) | [dataset](https://huggingface.co/datasets/keremberke/csgo-object-detection) |
 
+<img width="600px" src="https://user-images.githubusercontent.com/89259176/216605070-d3b2721f-07bc-465b-9650-3e2e3d2e533b.png" align="center" />
+
+| box mAP@0.5 | model type | model id |  dataset page |
+|---                 |---         |---       |---            |
+| 0.893 | yolov8n-det | [keremberke/keremberke/yolov8n-blood-cell-detection](https://huggingface.co/keremberke/keremberke/yolov8n-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
+| 0.917 | yolov8s-det | [keremberke/keremberke/yolov8s-blood-cell-detection](https://huggingface.co/keremberke/keremberke/yolov8s-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
+| 0.927 | yolov8m-det | [keremberke/keremberke/yolov8m-blood-cell-detection](https://huggingface.co/keremberke/keremberke/yolov8m-blood-cell-detection) | [dataset](https://huggingface.co/datasets/keremberke/blood-cell-object-detection) |
+
+
 <!-- SEGMENTATION MODELS -->
 ## Segmentation Models
 
