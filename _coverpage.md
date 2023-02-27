@@ -5,5 +5,6 @@
 
 > Easy-to-use finetuned YOLOv8 models.
 
-[Demo](https://huggingface.co/models?other=awesome-yolov8-models)
+[Demo](https://huggingface.co/spaces/keremberke/awesome-yolov8-models)
+[Github](https://github.com/keremberke/awesome-yolov8-models)
 [Get Started](#about-the-project)
